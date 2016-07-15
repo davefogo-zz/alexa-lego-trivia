@@ -165,11 +165,27 @@ var questions = [
         ]
     },
     {
-        "Which famous people are LEGO enthusiasts?": [
+        "Which famous person is a LEGO enthusiasts?": [
             "David Beckham",
             "Elon Musk",
             "Jeff Bezos",
             "Barack Obama"
+        ]
+    },
+    {
+        "How old is LEGO?": [
+            "82 years old",
+            "50 years old",
+            "45 years old",
+            "33 years old"
+        ]
+    },
+    {
+        "Which of these statements is true?": [
+            "A LEGO brick from 1958 still interlocks with a modern LEGO brick",
+            "LEGO employs more people than any other toy company",
+            "There are more minifigures in existance than there are human beings.",
+            "The largest commercially produced LEGO set is the Sydney's Opera"
         ]
     }
 ];

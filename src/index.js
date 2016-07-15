@@ -21,245 +21,155 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
-        ]
-    },
-    {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
+        "Where was Lego founded?": [
+            "Denmark",
             "United States",
-            "Finland",
-            "Germany"
+            "Germany",
+            "Japan",
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "What is the plural form of LEGO?": [
+            "LEGO",
+            "LEGOS",
+            "LEGOES",
+            "LEGIN"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "What were LEGO made of prior to 1947?": [
+            "Wood",
+            "Steel",
+            "Plastic",
+            "Copper"
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "What does lego mean in latin?": [
+            "I put together",
+            "Play",
+            "Create all day",
+            "Build alone"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "Where was the first LEGOland amusement park built?": [
+            "Denmark",
+            "United States",
+            "Germany",
+            "South Korea"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        "In what year did LEGO start licencing characters from movies and tv shows?": [
+            "1999",
+            "1988",
+            "2015",
+            "2006"
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "How much is the most expensive LEGO set sold for?": [
+            "499 US Dollars",
+            "399 US Dollars",
+            "299 US Dollars",
+            "199 US Dollars"
         ]
     },
     {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
+        "What is the most expensive LEGO set available?": [
+            "Star Wars Ultimate Collector's Edition Millenium Falcon",
+            "Racers Lamborghini Gallardo",
+            "Creator Town Hall",
+            "Mindstorms EV3"
         ]
     },
     {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
+        "How many LEGO bricks have been produced over the years?": [
+            "560 Billion",
+            "100 Billion",
+            "20 Trillion",
+            "800 Million"
         ]
     },
     {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
+        "What was LEGO's first product?": [
+            "A wooden toy duck",
+            "A wooden toy house",
+            "A plastic toy train",
+            "A steel brick"
+        ]
+    },
+    {
+        "Who invented LEGO?": [
+            "Ole Kirk Christiansen",
+            "Warren E. Buffett",
+            "Ingvar Kampard",
             "J.K. Rowling"
         ]
     },
     {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
+        "In what year was LEGO awarded its first US patent for the toy building brick?": [
+            "1961",
+            "1957",
+            "1999",
+            "1949"
         ]
     },
     {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
+        "How many bricks are defective in a batch of one million?": [
+            "18",
+            "0",
+            "500",
+            "1452"
         ]
     },
     {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
+        "What does the A F O L acronym mean in the LEGO community?": [
+            "Adult fan of LEGO",
+            "A Fun Old Lie",
+            "After Famous Ole Legot",
+            "Art for our lives"
         ]
     },
     {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
+        "How many LEGO sets are sold per second in the world?": [
+            "7",
+            "1201",
+            "300",
+            "20"
         ]
     },
     {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
+        "What does legot mean in danish?": [
+            "play well",
+            "have fun",
+            "build",
+            "plastic"
         ]
     },
     {
-        "What was Rudolph's father's name?": [
-            "Donner",
-            "Dasher",
-            "Blixen",
-            "Comet"
+        "How many times are LEGO Duplo bricks larger than the original LEGO bricks?": [
+            "8",
+            "3",
+            "2",
+            "4"
         ]
     },
     {
-        "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-            "Comet",
-            "Blixen",
-            "Donner",
-            "Dasher"
+        "How tall are minifigures without a hat?": [
+            "4 bricks",
+            "2 bricks",
+            "3 and half bricks",
+            "6 bricks"
         ]
     },
     {
-        "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-            "Fireball",
-            "Clarice",
-            "Jumper",
-            "Vixen"
-        ]
-    },
-    {
-        "In the 1964 movie, How did Donner, Rudolph's father, try to hide Rudolph's nose?": [
-            "Black mud",
-            "Bag",
-            "Pillow case",
-            "Sock"
-        ]
-    },
-    {
-        "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-            "Dentist",
-            "Reindeer",
-            "Toy maker",
-            "Candlestick maker"
-        ]
-    },
-    {
-        "In the 1964 movie,what was the Bumble's one weakness?": [
-            "Could not swim",
-            "Always hungry",
-            "Candy canes",
-            "Cross eyed"
-        ]
-    },
-    {
-        "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-            "Peppermint",
-            "Gold",
-            "India",
-            "Polar Bears"
-        ]
-    },
-    {
-        "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-            "Square wheels",
-            "No Engine",
-            "Paint does not match",
-            "It does not toot"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the Jack in the Box?": [
-            "Charlie",
-            "Sam",
-            "Billy",
-            "Jack"
-        ]
-    },
-    {
-        "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-            "Storm",
-            "No snow",
-            "No toys",
-            "The Reindeer were sick"
-        ]
-    },
-    {
-        "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-            "Oink",
-            "Growl",
-            "Bark",
-            "Meow"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the prospector?": [
-            "Yukon Cornelius",
-            "Slider Sam",
-            "Bumble",
-            "Jack"
-        ]
-    },
-    {
-        "How far do reindeer travel when they migrate?": [
-            "3000 miles",
-            "700 miles",
-            "500 miles",
-            "0 miles"
-        ]
-    },
-    {
-        "How fast can a reindeer run?": [
-            "48 miles per hour",
-            "17 miles per hour",
-            "19 miles per hour",
-            "14 miles per hour"
+        "Which famous people are LEGO enthusiasts?": [
+            "David Beckham",
+            "Elon Musk",
+            "Jeff Bezos",
+            "Barack Obama"
         ]
     }
 ];
@@ -649,4 +559,3 @@ function buildResponse(sessionAttributes, speechletResponse) {
         response: speechletResponse
     };
 }
-
